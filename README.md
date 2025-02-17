@@ -26,11 +26,7 @@ Bluetooth is a wireless communication technology that enables the wireless trans
 - Connecting to other devices with services
 - Managing multiple wireless connections
 
-## App 📱 Screenshots 📸 
 
-![Screenshot](screen-1.png)
-
-![Screenshot](screen-2.png)
 
 
 
